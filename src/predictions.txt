@@ -1,0 +1,16 @@
+/Users/mahsa/Desktop/lesson/Computer vision/Project/PlatePrj/correct_data/test/0/0058.jpg, 0
+/Users/mahsa/Desktop/lesson/Computer vision/Project/PlatePrj/correct_data/test/0/0218.jpg, 0
+/Users/mahsa/Desktop/lesson/Computer vision/Project/PlatePrj/correct_data/test/0/0066.jpg, 0
+/Users/mahsa/Desktop/lesson/Computer vision/Project/PlatePrj/correct_data/test/0/0105.jpg, 0
+/Users/mahsa/Desktop/lesson/Computer vision/Project/PlatePrj/correct_data/test/0/0224.jpg, 0
+/Users/mahsa/Desktop/lesson/Computer vision/Project/PlatePrj/correct_data/test/0/0675.jpg, 0
+/Users/mahsa/Desktop/lesson/Computer vision/Project/PlatePrj/correct_data/test/0/0731.jpg, 0
+/Users/mahsa/Desktop/lesson/Computer vision/Project/PlatePrj/correct_data/test/0/1868.jpg, 0
+/Users/mahsa/Desktop/lesson/Computer vision/Project/PlatePrj/correct_data/test/1/0220.jpg, 1
+/Users/mahsa/Desktop/lesson/Computer vision/Project/PlatePrj/correct_data/test/1/0251.jpg, 0
+/Users/mahsa/Desktop/lesson/Computer vision/Project/PlatePrj/correct_data/test/1/0166.jpg, 1
+/Users/mahsa/Desktop/lesson/Computer vision/Project/PlatePrj/correct_data/test/1/0095.jpg, 1
+/Users/mahsa/Desktop/lesson/Computer vision/Project/PlatePrj/correct_data/test/2/0067.jpg, 2
+/Users/mahsa/Desktop/lesson/Computer vision/Project/PlatePrj/correct_data/test/2/0212.jpg, 2
+/Users/mahsa/Desktop/lesson/Computer vision/Project/PlatePrj/correct_data/test/2/0296.jpg, 2
+/Users/mahsa/Desktop/lesson/Computer vision/Project/PlatePrj/correct_data/test/2/0566.jpg, 2
